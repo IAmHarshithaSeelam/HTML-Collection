@@ -1,0 +1,28 @@
+# HTML Collection
+
+This repository contains my HTML practice projects.
+
+## ♟ Chess Board
+
+<img src="images/chess-board.png" width="500">
+
+## 🎲 Ludo Board
+
+<img src="images/ludo-board.png" width="500">
+
+## 📋 Table Practice 1
+
+<img src="images/table1.png" width="500">
+
+## 📋 Table Practice 2
+
+<img src="images/table2.png" width="500">
+
+## Skills Practiced
+
+- HTML Tables
+- Rowspan & Colspan
+- Chess Board Design
+- Ludo Board Design
+- Form Creation
+- Semantic HTML
